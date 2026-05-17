@@ -61,5 +61,22 @@ SQL-запросы к таблицам result.db
 # Автор
 Aleksandr Korostenskii - linkedin.com/in/aleksandr-korostenskii-9432252a0
 
-## Лицензия
+# Лицензия
 MIT License — подробнее в файле [LICENSE]
+
+# Screenshots
+# DAG Graph
+![DAG Graph](screenshots/dag_graph.jpeg)
+
+# Task Log Example
+![Task Log](screenshots/task_log.jpeg)
+
+# Results
+# daily_stats table
+![daily_stats](screenshots/daily_stats_result.jpeg)
+
+#category_stats table
+![category_stats](screenshots/category_stats_result.jpeg)
+
+# etl_log table
+![etl_log](screenshots/etl_log_result.jpeg)
