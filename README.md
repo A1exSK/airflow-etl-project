@@ -66,17 +66,17 @@ MIT License — подробнее в файле [LICENSE]
 
 # Screenshots
 # DAG Graph
-![DAG Graph](Screenshots/dag_graph.jpeg)
+![DAG Graph](Screenshots/dag_graph.jpg)
 
 # Task Log Example
-![Task Log](Screenshots/task_log.jpeg)
+![Task Log](Screenshots/task_log.jpg)
 
 # Results
 # daily_stats table
-![daily_stats](Screenshots/daily_stats_result.jpeg)
+![daily_stats](Screenshots/daily_stats_result.jpg)
 
 #category_stats table
-![category_stats](Screenshots/category_stats_result.jpeg)
+![category_stats](Screenshots/category_stats_result.jpg)
 
 # etl_log table
-![etl_log](Screenshots/etl_log_result.jpeg)
+![etl_log](Screenshots/etl_log_result.jpg)
