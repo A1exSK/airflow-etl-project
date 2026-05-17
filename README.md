@@ -64,19 +64,21 @@ Aleksandr Korostenskii - linkedin.com/in/aleksandr-korostenskii-9432252a0
 # Лицензия
 MIT License — подробнее в файле [LICENSE]
 
-# Screenshots
-# DAG Graph
+## Screenshots
+
+### DAG Graph
 ![DAG Graph](Screenshots/dag_graph.jpg)
 
-# Task Log Example
+### Task Log Example
 ![Task Log](Screenshots/task_log.jpg)
 
-# Results
-# daily_stats table
+### Results
+
+#### daily_stats table
 ![daily_stats](Screenshots/daily_stats_result.jpg)
 
-#category_stats table
+#### category_stats table
 ![category_stats](Screenshots/category_stats_result.jpg)
 
-# etl_log table
+#### etl_log table
 ![etl_log](Screenshots/etl_log_result.jpg)
