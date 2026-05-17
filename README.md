@@ -73,6 +73,7 @@ MIT License — подробнее в файле [LICENSE]
 ### Task Log Example
 
 ![Task Log](Screenshots/task_log.jpg)
+https://github.com/A1exSK/airflow-etl-project/blob/2fe5f8556dad353e19a3cc9b354787a42e7dab1e/Screenshots/task_log.jpg
 
 ### Results
 
