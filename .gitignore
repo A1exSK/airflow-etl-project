@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Airflow logs
+logs/
+
+# Temporary files
+data/extracted.csv
+data/transformed.csv
+
+# Local configuration
+docker-compose_2_10.yaml
+
+# IDE
+.vscode/
+.idea/
