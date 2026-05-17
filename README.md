@@ -42,6 +42,7 @@ docker-compose up -d --build
 
 # 3. Инициализировать базы данных
 docker-compose exec airflow-scheduler python /opt/airflow/init_db.py
+```
 
 # 4. Открыть веб-интерфейс
 http://localhost:8080
